@@ -4,5 +4,5 @@ This project takes in multiple text documents and calculates word counts and TF-
 
 Problems:
 - sp1 and sp2 got imperfect scores, the parsing did not remove empty strings from which ended up in the JSON output
-- imperfect preprocessing also led to imperfect scores on sp3 and sp4
+- imperfect preprocessing also led to lower scores on sp3 and sp4
 - sp4 output includes terms such as "don\u2019t"
